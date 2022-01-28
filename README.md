@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning code, being a developer.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me, probably here?
+- 📫 How to reach me, itsrreba@gmail.com
 
 <!---
 Itsrreba/Itsrreba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
