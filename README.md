@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rreba
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and design.
 - 🌱 I’m currently learning a lot of languages and trying to improve everyday!
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me, itsrreba@gmail.com
