@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Itsrreba
+- 👋 Hi, I’m Rreba
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning code, being a developer.
+- 🌱 I’m currently learning a lot of languages and trying to improve everyday!
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me, itsrreba@gmail.com
 
